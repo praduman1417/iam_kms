@@ -1,2 +1,4 @@
-*.tfstate
+*.tfstate*
 .vscode/settings.json
+var.tf
+*.terraform
